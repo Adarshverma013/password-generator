@@ -1,4 +1,4 @@
-Password-generator
+Password-generator<br>
 This is Automatic password generator
 ==================
 
